@@ -1,10 +1,10 @@
 * Fall 2021 - Lab Cipher
 
-* Last name:
+* Last name: Fan
 
-* First name:
+* First name: Henry
 
-* GitHub username:
+* GitHub username: henryfan03
 
 * Notes:
 
